@@ -2,6 +2,7 @@ package com.bridgelabz.gamblingsimulationproblem;
 
 public class GamblerGame {
     public int gamble() {
+        //UC7 if have won money than he invested then play for the month
         int betEverygame = 1;
         int totalMoney = 0;
         int currentDayMoney = 100;
